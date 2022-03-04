@@ -1,0 +1,4 @@
+dwn
+*.o
+*.orig
+*.rej
